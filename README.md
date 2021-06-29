@@ -17,10 +17,8 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
 </p>
 <hr/>
 
-**Meus interesses pessoais:**
 
-- Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
--  Meus hobbies são: 
+<b>Meus hobbies são: </b>
   - Estudar sobre hacking e Lockpick; 
   - Jogar xadrez;
   - Ler livros;
@@ -58,12 +56,10 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" />
+</p>
+<hr>
 
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RoyMusthang" alt="Josué Lobo /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RoyMusthang" alt="Josué Lobo" /> </p>
 
  Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
 
