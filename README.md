@@ -5,7 +5,7 @@
 <h2 align="left" > 
   <b>CODING IS LIFE!</b>
 </h2>
-<a href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
+<a href="https://www.linkedin.com/in/nobreakh/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px"></a><br/>
 <p align="left" >
 Me chamo <b>Josué Lobo</b>.
@@ -23,12 +23,11 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
   - Ler livros;
   - Jogar Mobas em geral;
   <hr>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyMusthang&layout=compact&theme=graywhite&title_color=268bd2" alt="Josué-Lobo">
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RoyMusthang&show_icons=true&theme=dark)" alt="Josué-Lobo">
-</p>
+
+
+
+  <img src="https://github-readme-stats.vercel.app/api?username=RoyMusthang&show_icons=true&theme=radical" alt="Josué-Lobo">
+
 <hr>
 
 **Linguagens e ferramentas:**  
@@ -59,6 +58,8 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RoyMusthang" alt="Josué Lobo" /> </p>
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyMusthang&layout=compact&theme=radical" alt="Josué-Lobo">
 
  Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
 
