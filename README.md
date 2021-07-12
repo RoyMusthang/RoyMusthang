@@ -1,5 +1,5 @@
 <h1 align="center"> Seja bem vinda e bem vindo! </h1>
-<a href="https://github.com/strongreen" target="_blank">
+<a href="https://github.com/RoyMusthang" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a><br />
 <h2 align="left" > 
@@ -60,6 +60,9 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RoyMusthang" alt="Josué Lobo" /> </p>
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyMusthang&layout=compact&theme=radical" alt="Josué-Lobo">
+
+ ## Code War
+ <img src="https://www.codewars.com/users/RoyMusthang/badges/large">
 
  Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
 
