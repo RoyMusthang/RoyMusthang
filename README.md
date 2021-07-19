@@ -16,15 +16,12 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
 </p>
 <hr/>
 
-
 <b>Meus hobbies são: </b>
   - Estudar sobre hacking e Lockpick; 
   - Jogar xadrez;
   - Ler livros;
   - Jogar Mobas em geral;
   <hr>
-
-
 
   <img src="https://github-readme-stats.vercel.app/api?username=RoyMusthang&show_icons=true&theme=radical" alt="Josué-Lobo">
 
@@ -67,5 +64,3 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
  <img src="https://www.codewars.com/users/RoyMusthang/badges/large">
 
  Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
-
- [dereguejhonson](www.codewars.com)
