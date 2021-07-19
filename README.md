@@ -68,3 +68,4 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
 
  Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
 
+ [dereguejhonson](www.codewars.com)
