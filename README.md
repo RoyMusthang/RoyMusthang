@@ -23,7 +23,7 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
   - Jogar Mobas em geral;
   <hr>
 
-[![RoyMusthang's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoyMusthang&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/RoyMusthang/github-readme-stats)
+[![RoyMusthang's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoyMusthang&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=radical)](https://github.com/RoyMusthang/github-readme-stats)
 
 <hr>
 
