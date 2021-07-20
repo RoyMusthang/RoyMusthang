@@ -23,7 +23,7 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
   - Jogar Mobas em geral;
   <hr>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=RoyMusthang&show_icons=true&include_all_commits=true&theme=radical" alt="Josué-Lobo">
+[![hugovk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugovk&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
