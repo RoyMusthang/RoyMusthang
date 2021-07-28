@@ -64,5 +64,3 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
 
  ## Code War
  <img src="https://www.codewars.com/users/RoyMusthang/badges/large">
-
- Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
