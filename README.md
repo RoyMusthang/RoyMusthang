@@ -22,9 +22,11 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
   - Ler livros;
   - Jogar Mobas em geral;
   <hr>
-  
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=RoyMusthang&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=radical" alt="Josué-Lobo">
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyMusthang&layout=compact&theme=radical" alt="Josué-Lobo">
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RoyMusthang&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=radical" alt="Josué-Lobo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyMusthang&layout=compact&theme=radical" alt="Josué-Lobo">
+</div>
 
 <hr>
 
