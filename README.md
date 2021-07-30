@@ -13,7 +13,7 @@ Me chamo <b>Josué Lobo</b>.
 <p align="left" >
 Atualmente moro em Ananindeua/PA-BR.<br />
 E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Stack.</b>
- <img href="https://gifmaker.me/files/download/home/20210730/06/qFa1EQXWJj2ARhDJieZ4tL/output_L9tfSg.gif">
+ <img href="5i3z2i.gif">
  </div>
 </p>
 <hr/>
