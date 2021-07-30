@@ -16,14 +16,15 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
 </p>
 <hr/>
 
-<b>Meus hobbies são: </b>
+**Meus hobbies são:**
   - Estudar sobre hacking e Lockpick; 
   - Jogar xadrez;
   - Ler livros;
   - Jogar Mobas em geral;
   <hr>
-
-[![RoyMusthang's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoyMusthang&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=radical)](https://github.com/RoyMusthang/github-readme-stats)
+  
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=RoyMusthang&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=radical" alt="Josué-Lobo">
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyMusthang&layout=compact&theme=radical" alt="Josué-Lobo">
 
 <hr>
 
@@ -31,8 +32,7 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
 
 <p align="left">
 <img src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Linux_23399.png" alt="linux" width="40" height="40" />
-  <img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/tor_browser_logo_icon_152955.png" alt="tor" width="40" height="40" />
-  
+<img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/tor_browser_logo_icon_152955.png" alt="tor" width="40" height="40" />
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170079.png" alt="bash" width="40" height="40" />
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="40" height="40"/> 
 <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40"/>
@@ -58,9 +58,9 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
 </p>
 <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RoyMusthang" alt="Josué Lobo" /> </p>
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyMusthang&layout=compact&theme=radical" alt="Josué-Lobo">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RoyMusthang" alt="Josué Lobo" /></p>
 
  ## Code War
+<a href="https://www.codewars.com/users/RoyMusthang" target="_blank">
  <img src="https://www.codewars.com/users/RoyMusthang/badges/large">
+</a>
