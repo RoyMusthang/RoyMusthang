@@ -61,10 +61,11 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
 </p>
 <hr>
 
-  <img align="right" src="image/5i3z2i.gif" width="180px" height="180px">
+  <img align="right" src="image/5i3z2i.gif" width="160px" height="160px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RoyMusthang" alt="Josué Lobo" /></p>
+<h3>Obrigado pela visita!<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h3>
 
- ## Code War
+<h2>Code War</h2>
 <a href="https://www.codewars.com/users/RoyMusthang" target="_blank">
   <img src="https://www.codewars.com/users/RoyMusthang/badges/large">
 </a>
