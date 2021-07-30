@@ -13,7 +13,6 @@ Me chamo <b>Josué Lobo</b>.
 <p align="left" >
 Atualmente moro em Ananindeua/PA-BR.<br />
 E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Stack.</b>
- <img href="5i3z2i.gif">
  </div>
 </p>
 <hr/>
@@ -62,9 +61,10 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
 </p>
 <hr>
 
+  <img align="right" src="image/5i3z2i.gif" width="180px" height="180px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RoyMusthang" alt="Josué Lobo" /></p>
 
  ## Code War
 <a href="https://www.codewars.com/users/RoyMusthang" target="_blank">
- <img src="https://www.codewars.com/users/RoyMusthang/badges/large">
+  <img src="https://www.codewars.com/users/RoyMusthang/badges/large">
 </a>
