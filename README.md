@@ -4,6 +4,7 @@
 <a href="https://www.linkedin.com/in/nobreakh/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px"></a><br/>
 <p align="left" >
+  <hr>
 Me chamo <b>Josué Lobo</b>.
 </p>
 <p align="left" >
