@@ -45,6 +45,7 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_lua_icon_130410.png" alt="lua" width="40" height="40" />
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_icon_130514.png" alt="jest" width="40" height="40"/>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="40" height="40"/> 
+ <img src="https://user-images.githubusercontent.com/80691766/134706033-799f21ca-b461-4c2d-8a03-417b134cc8dd.png" alt="react-testing-library" width="40" height="40"/> 
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="redux" width="40" height="40"/> 
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_plain_logo_icon_146414.png" alt="mysql" width="40" height="40"/> 
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="mongodb" width="40" height="40"/> 
