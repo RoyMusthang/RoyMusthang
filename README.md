@@ -63,7 +63,7 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
 
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40" /> -->
 
-<!--<img src="https://pm2.keymetrics.io/assets/pm2-logo-1.png" alt="pm2" width="40" height="40" /> -->
+<img src="https://pm2.keymetrics.io/assets/pm2-logo-1.png" alt="pm2" width="80" height="40" />
 </p>
 <hr>
 
