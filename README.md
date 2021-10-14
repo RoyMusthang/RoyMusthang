@@ -55,6 +55,7 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" />
 <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Python" width="40" height="40" />
   <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="40" height="40" />
+  <img src="https://socket.io/images/logo.svg" alt="socket.io" width="40" height="40" />
   <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/slack_icon_130829.png">
   <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/836/PNG/128/Trello_icon-icons.com_66775.png">
   <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2389/PNG/128/notion_logo_icon_145025.png">
@@ -62,7 +63,7 @@ E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Sta
 
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40" /> -->
 
-<!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" /> -->
+<!--<img src="https://pm2.keymetrics.io/assets/pm2-logo-1.png" alt="pm2" width="40" height="40" /> -->
 </p>
 <hr>
 
