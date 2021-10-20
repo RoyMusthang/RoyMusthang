@@ -9,7 +9,9 @@ Me chamo <b>Josué Lobo</b>.
 </p>
 <p align="left" >
 Atualmente moro em Ananindeua/PA-BR.<br />
-E estou me capacitando pela @betrybe para me tornar um <b>Desenvolvedor Full-Stack.</b>
+
+Sou apaixonado por tecnologia, hacking e desenvolvimento para contribuir com uma melhor interação digital. Trabalho e acredito em ações que possam gerar
+um impacto positivo na vida das pessoas.
  </div>
 </p>
 <hr/>
