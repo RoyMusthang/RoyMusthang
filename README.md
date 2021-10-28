@@ -70,7 +70,7 @@ um impacto positivo na vida das pessoas.
 </p>
 
 <hr>
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
 
   <img align="right" src="image/5i3z2i.gif" width="160px" height="160px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RoyMusthang" alt="Josué Lobo" /></p>
