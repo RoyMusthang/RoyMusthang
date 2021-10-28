@@ -72,7 +72,7 @@ um impacto positivo na vida das pessoas.
 <hr>
 
 
-  <img align="right" src="image/5i3z2i.gif" width="160px" height="160px">
+  <img align="right" src="image/2970.gif" width="160px" height="160px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RoyMusthang" alt="Josué Lobo" /></p>
 <h3>Obrigado pela visita!<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h3>
 
