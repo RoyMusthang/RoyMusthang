@@ -80,3 +80,8 @@ um impacto positivo na vida das pessoas.
 <a href="https://www.codewars.com/users/RoyMusthang" target="_blank">
   <img src="https://www.codewars.com/users/RoyMusthang/badges/large">
 </a>
+
+## TryHackMe
+<a href="https://tryhackme.com/p/RoyMusthang">
+   <img src="https://tryhackme-badges.s3.amazonaws.com/RoyMusthang.png" alt="TryHackMe">
+</a>
