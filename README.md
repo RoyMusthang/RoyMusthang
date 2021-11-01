@@ -74,7 +74,7 @@ um impacto positivo na vida das pessoas.
 
   <img align="right" src="image/2970.gif" width="160px" height="160px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RoyMusthang" alt="Josué Lobo" /></p>
-<h3>Obrigado pela visita!<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h3>
+<h3>Meus Emblemas<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h3>
 
 <h2>Code War</h2>
 <a href="https://www.codewars.com/users/RoyMusthang" target="_blank">
