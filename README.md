@@ -83,5 +83,5 @@ um impacto positivo na vida das pessoas.
 
 ## TryHackMe
 <a href="https://tryhackme.com/p/RoyMusthang">
-   <img href="https://tryhackme-badges.s3.amazonaws.com/RoyMusthang.png?5">
+   <img src="https://tryhackme-badges.s3.amazonaws.com/RoyMusthang.png?5">
 </a>
