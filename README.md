@@ -66,7 +66,8 @@ um impacto positivo na vida das pessoas.
   <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2389/PNG/128/notion_logo_icon_145025.png">
 <img src="https://sequelize.org/master/manual/asset/logo-small.png" alt="sequelize" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40" />
-<img src="https://pm2.keymetrics.io/assets/logo.png" alt="pm2" width="100" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" />
 </p>
 
 <hr>
