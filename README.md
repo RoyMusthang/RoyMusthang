@@ -19,7 +19,8 @@ um impacto positivo na vida das pessoas.
 </p>
 <hr/>
 
-**Meus hobbies são:**
+<h2>Hobbies:</h2>
+
   - Estudar sobre hacking e Lockpick; 
   - Jogar xadrez;
   - Ler livros;
@@ -33,7 +34,7 @@ um impacto positivo na vida das pessoas.
 
 <hr>
 
-**Linguagens e ferramentas:**  
+<h2>Skills: </h2>
 
 <p align="left">
 <img src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Linux_23399.png" alt="linux" width="40" height="40" />
