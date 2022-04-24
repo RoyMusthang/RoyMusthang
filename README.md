@@ -18,14 +18,6 @@ um impacto positivo na vida das pessoas.
  </div>
 </p>
 <hr/>
-
-<h2>Hobbies:</h2>
-
-  - Estudar sobre hacking e Lockpick; 
-  - Jogar xadrez;
-  - Ler livros;
-  - Jogar Mobas em geral;
-  <hr>
   
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RoyMusthang&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
