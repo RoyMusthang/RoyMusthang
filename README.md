@@ -5,18 +5,6 @@
 <a href="https://www.linkedin.com/in/nobreakh/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
-<br/>
-<p align="left" >
-  <hr>
-Me chamo <b>Josué Lobo</b>.
-</p>
-<p align="left" >
-Atualmente moro em Ananindeua/PA-BR.<br />
-
-Sou apaixonado por tecnologia, hacking e desenvolvimento para contribuir com uma melhor interação digital. Trabalho e acredito em ações que possam gerar
-um impacto positivo na vida das pessoas.
- </div>
-</p>
 <hr/>
   
 <div>
@@ -68,7 +56,7 @@ um impacto positivo na vida das pessoas.
 
   <img align="right" src="image/2970.gif" width="160px" height="160px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RoyMusthang" alt="Josué Lobo" /></p>
-<h3>Meus Emblemas<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h3>
+<h3>My Badges<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h3>
 
 <h2>Code War</h2>
 <a href="https://www.codewars.com/users/RoyMusthang" target="_blank">
