@@ -61,10 +61,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RoyMusthang" alt="Josué Lobo" /></p>
 <h3>My Badges<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h3>
 
-<h2>Code War</h2>
-<a href="https://www.codewars.com/users/RoyMusthang" target="_blank">
-  <img src="https://www.codewars.com/users/RoyMusthang/badges/large">
-</a>
+
+![Codewars](https://github.r2v.ch/codewars?user=RoyMusthang&top_languages=true&stroke=rgb(59,66,82))
 
 ## TryHackMe
 <a href="https://tryhackme.com/p/RoyMusthang">
