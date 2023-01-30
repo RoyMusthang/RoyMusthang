@@ -2,7 +2,7 @@
 <a href="https://beedeveloper.notion.site/BeeDev-b3284d4907f8420eb3bd6021e7baeaf9" target="_blank">
    <img align="right" src="image/minimalistLogo.png" width="48px" height="48px">
 </a>
-<a href="https://www.linkedin.com/in/nobreakh/" target="_blank">
+<a href="https://www.linkedin.com/in/roymusthang/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <hr/>
