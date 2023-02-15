@@ -5,6 +5,9 @@
 <a href="https://www.linkedin.com/in/roymusthang/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
+<a href="mailto:josuevitorp.lobo@gmail.com" target="_blank">
+  <img align="right" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="48px" height="48px">
+</a>
 <hr/>
   
 <div>
